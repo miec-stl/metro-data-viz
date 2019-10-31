@@ -20,3 +20,23 @@
 .App-link {
   color: #09d3ac;
 }
+
+.BarChart {
+  background-color:white;
+  padding:15px;
+  /* border:1px dashed black; */
+  margin: auto;
+  max-width:500px;
+}
+
+.BarChartBox {
+  font-size:12px;
+  font-weight: bold;
+  margin: 2px;
+  background-color: black;
+  color: white;
+  height:1.5em;
+  line-height:1.5em;
+  text-align: center;
+  float:left;
+}
