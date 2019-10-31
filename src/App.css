@@ -27,6 +27,7 @@
   /* border:1px dashed black; */
   margin: auto;
   max-width:500px;
+  clear: both;
 }
 
 .BarChartBox {
