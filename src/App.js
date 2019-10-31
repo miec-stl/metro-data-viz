@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import _ from 'underscore';
 
+
 import PublicSafetyData_2018 from './output/2018-public-safety-logs.json'
 // console.log(PublicSafetyData_2018);
 
