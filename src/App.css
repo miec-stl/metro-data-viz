@@ -41,3 +41,22 @@
   text-align: center;
   float:left;
 }
+
+
+#CallTypeCheckboxes {
+  display:flex;
+  flex-wrap:wrap;
+}
+
+#CallTypeCheckboxes > label {
+  flex-grow: 1;
+  background-color:#999;
+  color:white;
+  margin:2px;
+  padding:4px;
+  cursor: pointer;
+}
+
+:checked + span {
+  color:black;
+}
