@@ -23,8 +23,8 @@ class CallsByTimeAndStation extends React.Component {
         SvgHolderId: 'SvgHolder',
         CheckboxContainerId: 'CallTypeCheckboxes',
         CallTypesToDisplay: ['FARE VIOLATION'],
-        DefaultStart:'2018-09-01', 
-        DefaultEnd:'2018-09-30'
+        DefaultStart:'2019-01-01', 
+        DefaultEnd:'2019-09-30'
     }
 
     GetDataInDateRange = (StartDate, EndDate) => {
@@ -48,7 +48,7 @@ class CallsByTimeAndStation extends React.Component {
     }
     
     render() {
-        console.log(AllPublicSafetyData);
+        // console.log(AllPublicSafetyData);
         const ClickButtonStyle = {width:800, margin:'10px auto', padding:'5px 0', backgroundColor:'blue', color:'white'};
         const DateSelectBoxStyle ={width:800, margin:'10px auto', padding:'5px 0', display:'flex', justifyContent:'center', backgroundColor:'orange'}
         const CheckboxContainerStyle = {width:800, margin:'10px auto'};
