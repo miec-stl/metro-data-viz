@@ -1,4 +1,3 @@
-import React from "react";
 import _ from "underscore";
 import $ from 'jquery';
 import * as d3 from 'd3';
@@ -63,24 +62,25 @@ const ChartHelper = {
                   }
         });
 
-        var MetrolinkCalls = _.where(Data, {Category:"METROLINK"});
-
-        var MetrolinkCalls_DateRange = _.filter(MetrolinkCalls, (Row) => {
-            return Moment(Row.Time).isBetween('2018-10-01', '2018-10-31');
-        })
-    
-        var SelectedMetrolinkCalls = _.filter(MetrolinkCalls, function(Row) {
+        const MetrolinkCalls = _.where(Data, {Category:"METROLINK"});
+        const SelectedMetrolinkCalls = _.filter(MetrolinkCalls, (Row) => {
             return _.contains(CallsToCount, Row.CallType);
         });
-        
-        var CallsByStation = _.groupBy(
+
+        const CapitalizedStationNames = _.map(MetrolinkStations.AllStations, (ThisStation) => { return ThisStation.toUpperCase(); });
+        const CallsByStation = _.groupBy(
             SelectedMetrolinkCalls, 
-            function(row) {
-                return row.Location.substring(0, row.Location.indexOf('-') - 1);
+            (ThisCall) => {
+                return _.find(CapitalizedStationNames, (ThisStation) => {
+                    if (ThisCall.Location.indexOf(ThisStation) != -1) { return true; } else {
+                        // console.error(ThisCall.Location)
+                    }
+                });
             }
         );
 
         console.log(CallsByStation);
+
 
         _.each(CallsByStation, function(CallsAtStation, StationName) {
         

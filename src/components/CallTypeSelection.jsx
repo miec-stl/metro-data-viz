@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import _ from 'underscore';
 
+import CallTypeCheckbox from './CallTypeCheckbox';
+
 const DefaultCallTypes = [
     'FARE VIOLATION',
     'FARE DISPUTE',
@@ -16,21 +18,36 @@ const DefaultCallTypes = [
 ]
 
 class CallTypeSelection extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {CurrentlyChecked:this.props.DefaultChecked};
+    }
+
     static defaultProps = {
-        CallTypes: DefaultCallTypes
+        CallTypes: DefaultCallTypes,
+        DefaultChecked: ['FARE VIOLATION']
+    }
+
+    HandleChildChange = (ChangedCallType, NewStatus) => {
+        let CheckedTypes = this.state.CurrentlyChecked;
+        if(NewStatus) {
+            // Type was added
+            CheckedTypes.push(ChangedCallType);
+        } else {
+            // Type was removed
+            let IndexToRemove = this.state.CurrentlyChecked.indexOf(ChangedCallType);
+            CheckedTypes.splice(IndexToRemove, 1);
+        }   
+        this.setState({CurrentlyChecked:CheckedTypes});
+        this.render();
     }
 
     render() {
-        const CapitalizeStyle = {textTransform:'capitalize'};
 
         const AllCallTypes = this.props.CallTypes;
         const CallTypeCheckboxes = _.map(AllCallTypes, (ThisCallType) => {
-            const CallTypeDisplayText = ThisCallType.toLowerCase();
-            return <label label={ThisCallType} key={ThisCallType}>
-                <input type='checkbox' value={ThisCallType} />
-                <span style={CapitalizeStyle}>{CallTypeDisplayText}</span>
-            </label>
-        })
+            return <CallTypeCheckbox CallType={ThisCallType} key={ThisCallType} CheckedStatus={_.contains(this.state.CurrentlyChecked, ThisCallType) ? true : false} OnChangeFunc={this.HandleChildChange} />
+        }, this)
 
         return <div id={this.props.id}>
             {CallTypeCheckboxes}

@@ -1,6 +1,6 @@
 const MetrolinkStations = {
     AllStations: [
-        'Shiloh-Scott',
+        'Shiloh Scott',
         'College',
         'Belleville',
         'Swansea',
@@ -11,7 +11,7 @@ const MetrolinkStations = {
         'Emerson Park',
         '5th & Missouri',
         'East Riverfront',
-        "Lacledes Landing",
+        'Lacledes Landing',
         'Convention Center',
         '8th & Pine',
         'Stadium',
@@ -24,8 +24,8 @@ const MetrolinkStations = {
         'Delmar',
         'Wellston',
         'Rock Road',
-        'UMSL-South',
-        'UMSL-North',
+        'UMSL South',
+        'UMSL North',
         'North Hanley',
         'Lambert Airport Terminal 2',
         'Lambert Airport Terminal 1',
@@ -41,7 +41,7 @@ const MetrolinkStations = {
     ],
 
     RedStations: [
-        'Shiloh-Scott',
+        'Shiloh Scott',
         'College',
         'Belleville',
         'Swansea',
@@ -49,8 +49,8 @@ const MetrolinkStations = {
         'Delmar',
         'Wellston',
         'Rock Road',
-        'UMSL-South',
-        'UMSL-North',
+        'UMSL South',
+        'UMSL North',
         'North Hanley',
         'Lambert Airport Terminal 2',
         'Lambert Airport Terminal 1',

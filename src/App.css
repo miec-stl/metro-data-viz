@@ -64,12 +64,6 @@
   cursor: pointer;
 }
 
-:checked + span {
-  color:black;
-}
-
-
-
 .timeLabel {
   font-weight:bold;
   font-size:12px;
