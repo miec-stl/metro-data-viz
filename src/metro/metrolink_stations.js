@@ -27,8 +27,8 @@ const MetrolinkStations = {
         'UMSL South',
         'UMSL North',
         'North Hanley',
-        'Lambert Airport Terminal 2',
-        'Lambert Airport Terminal 1',
+        'Lambert East Terminal',
+        'Lambert Main Terminal',
         'Skinker',
         'University City-Big Bend',
         'Forsyth',
@@ -52,8 +52,8 @@ const MetrolinkStations = {
         'UMSL South',
         'UMSL North',
         'North Hanley',
-        'Lambert Airport Terminal 2',
-        'Lambert Airport Terminal 1',
+        'Lambert East Terminal',
+        'Lambert Main Terminal',
     ],
 
     BlueStations: [

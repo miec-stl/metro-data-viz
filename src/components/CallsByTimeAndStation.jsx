@@ -53,14 +53,12 @@ class CallsByTimeAndStation extends React.Component {
     }
 
     UpdateCallTypes = (NewCurrentlyChecked) => {
-        console.log(NewCurrentlyChecked);
         this.setState({CallTypesToDisplay:NewCurrentlyChecked}, () => {
             this.UpdateTimeValuesChart();
         });
     }
 
     UpdateTimeValuesChart = () => {
-        console.log(this.state);
         if(this.state.StartDate && this.state.EndDate) {
             
             ChartHelper.CreateTimeValuesChart(
