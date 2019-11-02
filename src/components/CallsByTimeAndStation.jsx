@@ -17,12 +17,15 @@ const AllPublicSafetyData = AllPublicSafetyData_2017.concat(AllPublicSafetyData_
 class CallsByTimeAndStation extends React.Component {
     constructor(props) {
         super(props);
+        this.state = {
+            CallTypesToDisplay:this.props.DefaultCallTypes
+        };
     }
     
     static defaultProps = {
         SvgHolderId: 'SvgHolder',
         CheckboxContainerId: 'CallTypeCheckboxes',
-        CallTypesToDisplay: ['FARE VIOLATION'],
+        DefaultCallTypes: ['FARE VIOLATION'],
         DefaultStart:'2019-01-01', 
         DefaultEnd:'2019-09-30'
     }
@@ -39,11 +42,16 @@ class CallsByTimeAndStation extends React.Component {
         });
     }
 
+    UpdateCallTypes = (NewCurrentlyChecked) => {
+        this.setState({CallTypesToDisplay:NewCurrentlyChecked});
+        this.UpdateTimeValuesChart();
+    }
+
     UpdateTimeValuesChart = () => {
         ChartHelper.CreateTimeValuesChart(
             "#"+this.props.SvgHolderId, 
             this.GetDataInDateRange(this.props.DefaultStart, this.props.DefaultEnd), 
-            this.props.CallTypesToDisplay
+            this.state.CallTypesToDisplay
         );
     }
     
@@ -66,7 +74,7 @@ class CallsByTimeAndStation extends React.Component {
             </div>
 
             <div style={CheckboxContainerStyle}>
-                <CallTypeSelection id={this.props.CheckboxContainerId} />
+                <CallTypeSelection id={this.props.CheckboxContainerId} OnChangeFunc={this.UpdateCallTypes} />
             </div>
         </div>
 

@@ -16,10 +16,11 @@ const ChartHelper = {
     },
     
     CreateTimeValuesChart: (DivSelector, Data, CallsToCount) => {
-        let Width = 800;
-        let Height = 700;
+        let Width = 780;
+        let Height = 750;
 
         let ChartSvg = d3.select(DivSelector)
+                .html("")
                 .append('svg')
                 .attr('width', Width)
                 .attr('height', Height)
@@ -34,7 +35,7 @@ const ChartHelper = {
                   return d;
                 })
                 .attr("x", function(d, i) {
-                  return i * ((Width - 200) / 12) + 225;
+                  return i * ((Width - 160) / 12) + 180;
                 })
                 .attr("y", Height - 10)
                 .attr("text-anchor", "middle");
@@ -47,7 +48,7 @@ const ChartHelper = {
                 .text(function(d, i) {
                   return d;
                 })
-                .attr("x", 200)
+                .attr("x", 160)
                 .attr("y", function(d, i) {
                   return ((Height - 40) / MetrolinkStations.AllStations.length) * i + 10;
                 })
@@ -96,7 +97,7 @@ const ChartHelper = {
                   TimeInt = 24 + TimeInt;
                 }
                 TimeInt = TimeInt + MomentDate.minutes() / 60;
-                return TimeInt/2 * (Width - 150)/12 + 175;
+                return TimeInt/2 * (Width - 160)/12 + 180;
               })
               .attr("cy", function (d, i) {
                 var StationIndex = _.indexOf(_.map(MetrolinkStations.AllStations, (Station) => {return Station.toUpperCase();}), StationName);

@@ -39,6 +39,7 @@ class CallTypeSelection extends Component {
             CheckedTypes.splice(IndexToRemove, 1);
         }   
         this.setState({CurrentlyChecked:CheckedTypes});
+        this.props.OnChangeFunc(this.state.CurrentlyChecked);
         this.render();
     }
 

@@ -23,8 +23,11 @@
 
 /* Above this are the defaults*/
 #SvgHolder {
-  height:700px;
-  width:800px;
+  padding:10px;
+  /* margin:20px; */
+  border:1px dashed black;
+  height:750px;
+  width:780px;
   margin:auto;
 }
 
