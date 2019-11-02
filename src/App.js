@@ -5,6 +5,8 @@ import BarChartMaker from './bar_chart_maker';
 import ChartHelper from './chart_helper'
 import AllCallTypes from './metro/call_types'
 
+import CallTypeSelection from './components/CallTypeSelection';
+
 import PublicSafetyData_2018 from './output/2018-public-safety-logs.json'
 import PublicSafetyData_2019 from './output/2019-public-safety-logs.json'
 
@@ -39,10 +41,18 @@ function App() {
       </div> */}
 
       <div id='SvgHolder'></div>
-      <div onClick={() => {ChartHelper.CreateTimeValuesChart('#SvgHolder', AllPublicSafetData_2018, ['ARREST']);}} style={{backgroundColor:'blue',color:'white'}}>
-        Click
+
+      <div 
+        style={{width:800, margin:'10px auto', padding:'5px 0', backgroundColor:'blue', color:'white'}}
+        onClick = { () => {
+          ChartHelper.CreateTimeValuesChart('#SvgHolder', AllPublicSafetData_2018, ['FARE VIOLATION']);
+        }}
+      >Click me</div>
+
+      <div style={{width:800, margin:'10px auto'}}>
+        <CallTypeSelection id='CallTypeCheckboxes' />
       </div>
-      {ChartHelper.CreateCallTypeButtons(AllCallTypes)}
+
     </div>
   );
 }

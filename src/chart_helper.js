@@ -1,14 +1,24 @@
 import React from "react";
 import _ from "underscore";
+import $ from 'jquery';
 import * as d3 from 'd3';
 import Moment from 'moment';
 import MetrolinkStations from './metro/metrolink_stations';
 
-const ChartHelper = {    
+const ChartHelper = {   
+    
+    GetCallTypes: () => {
+        let CheckedCallTypes = $('#CallTypeCheckboxes input:checked').map(function() {
+            console.log(this);
+            return $(this).parent().text()
+        });
+        
+        return CheckedCallTypes;
+    },
     
     CreateTimeValuesChart: (DivSelector, Data, CallsToCount) => {
         let Width = 800;
-        let Height = 800;
+        let Height = 700;
 
         let ChartSvg = d3.select(DivSelector)
                 .append('svg')
@@ -96,21 +106,6 @@ const ChartHelper = {
               .attr('fill', 'red')
               .attr('opacity', 0.3);
           });
-    },
-
-    CreateCallTypeButtons: (CallTypes) => {
-
-        const ButtonDivs = _.map(CallTypes, (CallType) => {
-            let CallTypeDisplayText = CallType.toLowerCase();
-            return <label label={CallType} key={CallType}>
-                <input type='checkbox' value={CallType} id={CallType} />
-                <span style={{textTransform:'capitalize'}}>{CallTypeDisplayText}</span>
-            </label>
-        });
-
-        return <div id='CallTypeCheckboxes'>
-            {ButtonDivs}
-        </div>;
     }
 }
 

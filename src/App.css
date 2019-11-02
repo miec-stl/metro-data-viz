@@ -23,8 +23,8 @@
 
 /* Above this are the defaults*/
 #SvgHolder {
-  height:800px;
-  width:1000px;
+  height:700px;
+  width:800px;
   margin:auto;
 }
 
@@ -66,4 +66,16 @@
 
 :checked + span {
   color:black;
+}
+
+
+
+.timeLabel {
+  font-weight:bold;
+  font-size:12px;
+}
+
+.stationLabel {
+  font-weight:bold;
+  font-size:12px;
 }
