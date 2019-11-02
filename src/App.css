@@ -21,6 +21,13 @@
   color: #09d3ac;
 }
 
+/* Above this are the defaults*/
+#SvgHolder {
+  height:800px;
+  width:1000px;
+  margin:auto;
+}
+
 .BarChart {
   background-color:white;
   padding:15px;

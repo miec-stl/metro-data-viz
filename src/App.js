@@ -7,10 +7,13 @@ import AllCallTypes from './metro/call_types'
 
 import PublicSafetyData_2018 from './output/2018-public-safety-logs.json'
 import PublicSafetyData_2019 from './output/2019-public-safety-logs.json'
+
+import AllPublicSafetData_2018 from './output/2018-full-log-info.json';
 // console.log(PublicSafetyData_2018);
 
 const DataRows_2018 = BarChartMaker(PublicSafetyData_2018, "FARE VIOLATION");
 const DataRows_2019 = BarChartMaker(PublicSafetyData_2019, "FARE VIOLATION");
+
 
 function App() {
   return (
@@ -35,7 +38,10 @@ function App() {
         </div>
       </div> */}
 
-
+      <div id='SvgHolder'></div>
+      <div onClick={() => {ChartHelper.CreateTimeValuesChart('#SvgHolder', AllPublicSafetData_2018, ['ARREST']);}} style={{backgroundColor:'blue',color:'white'}}>
+        Click
+      </div>
       {ChartHelper.CreateCallTypeButtons(AllCallTypes)}
     </div>
   );
