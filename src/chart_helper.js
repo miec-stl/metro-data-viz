@@ -92,7 +92,7 @@ const ChartHelper = {
               .attr('class', 'CallCircle')
               .attr("cx", function(d, i) {
                 let MomentDate = new Moment(d.Time)
-                var TimeInt = MomentDate.hour() - 4;
+                var TimeInt = MomentDate.hour() - 3;
                 if (TimeInt < 0) {
                   TimeInt = 24 + TimeInt;
                 }

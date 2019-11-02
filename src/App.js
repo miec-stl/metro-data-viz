@@ -13,19 +13,25 @@ import AllPublicSafetyData_2017 from './output/2017-full-log-info.json';
 const DataRows_2018 = BarChartMaker(PublicSafetyData_2018, "FARE VIOLATION");
 const DataRows_2019 = BarChartMaker(PublicSafetyData_2019, "FARE VIOLATION");
 
+const DefaultStart = '2019-01-01';
+const DefaultEnd = '2019-01-31';
+const DefaultCallTypes = ['FARE VIOLATION'];
 
 function App() {
   return (
     <div className="App">
-      {/* <div style={{display:'flex', marginTop:20, width:'80%', margin:'auto'}}>
-        <div style={{}}>
+
+      <CallsByTimeAndStation DefaultStart={DefaultStart} DefaultEnd={DefaultEnd} DefaultCallTypes={DefaultCallTypes} />
+
+      <div style={{display:'flex', margin:'30px auto', width:'80%'}}>
+        <div>
           <div style={{fontSize:'2em', padding:25}}>
             "Fare Violation" calls per week in 2018
           </div>
           {DataRows_2018}
         </div>
 
-        <div style={{}}>
+        <div>
           <div style={{fontSize:'2em', padding:25}}>
             "Fare Violation" calls per week in 2019
           </div>
@@ -35,10 +41,7 @@ function App() {
           <br/>
           <div style={{clear:'both', marginTop:4, paddingLeft:45, float:'left', fontStyle:'italic'}}>(2019 isn't over yet, still 10 more bars to come)</div>
         </div>
-      </div> */}
-
-      <CallsByTimeAndStation />
-
+      </div>
     </div>
   );
 }
