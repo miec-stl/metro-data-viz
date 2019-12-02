@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/metro-data-viz/static/css/main.aac7fc3f.chunk.css",
+    "main.js": "/metro-data-viz/static/js/main.ce1995b5.chunk.js",
+    "main.js.map": "/metro-data-viz/static/js/main.ce1995b5.chunk.js.map",
+    "runtime-main.js": "/metro-data-viz/static/js/runtime-main.d3c96df1.js",
+    "runtime-main.js.map": "/metro-data-viz/static/js/runtime-main.d3c96df1.js.map",
+    "static/js/2.4a14e44e.chunk.js": "/metro-data-viz/static/js/2.4a14e44e.chunk.js",
+    "static/js/2.4a14e44e.chunk.js.map": "/metro-data-viz/static/js/2.4a14e44e.chunk.js.map",
+    "index.html": "/metro-data-viz/index.html",
+    "precache-manifest.998ecbcd83394d82dae3db77e366813e.js": "/metro-data-viz/precache-manifest.998ecbcd83394d82dae3db77e366813e.js",
+    "service-worker.js": "/metro-data-viz/service-worker.js",
+    "static/css/main.aac7fc3f.chunk.css.map": "/metro-data-viz/static/css/main.aac7fc3f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c96df1.js",
+    "static/js/2.4a14e44e.chunk.js",
+    "static/css/main.aac7fc3f.chunk.css",
+    "static/js/main.ce1995b5.chunk.js"
+  ]
+}
