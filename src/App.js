@@ -39,7 +39,7 @@ function App() {
             {DataRows_2019}
           </div>
           <br/>
-          <div style={{clear:'both', marginTop:4, paddingLeft:45, float:'left', fontStyle:'italic'}}>(2019 isn't over yet, still 10 more bars to come)</div>
+          <div style={{clear:'both', marginTop:4, paddingLeft:45, float:'left', fontStyle:'italic'}}>(2019 isn't over yet, still 8 more bars to come)</div>
         </div>
       </div>
     </div>

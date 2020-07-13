@@ -63358,5 +63358,3551 @@
         "Category": "METROLINK",
         "CallType": "THEFT",
         "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-19T13:39:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T13:52:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSAULT",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T14:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-19T14:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T14:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T14:51:00.000Z",
+        "Category": "IL GRADE CROSSINGS",
+        "CallType": "ARREST",
+        "Location": "ST LOUIS AVE 17.1 "
+    },
+    {
+        "Time": "2019-10-19T15:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-19T15:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SOLICITING",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-19T15:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-19T15:50:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T15:52:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "REMOVE OBSTRUCTION",
+        "Location": "MAPLEWOOD/MANCHESTER - 7903 MANCHESTER RD. "
+    },
+    {
+        "Time": "2019-10-19T16:03:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SLEEPER",
+        "Location": "NORTH COUNTY TRANSIT CENTER - 3140 PERSHALL RD. FERGUSON "
+    },
+    {
+        "Time": "2019-10-19T16:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INDECENT EXPOSURE",
+        "Location": "SHILOH SCOTT - 880 METRO PLAZA LN.  OFALLON 37.7 "
+    },
+    {
+        "Time": "2019-10-19T17:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T18:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T18:25:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T18:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-19T19:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-19T19:11:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T19:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-19T19:52:00.000Z",
+        "Category": "IL GRADE CROSSINGS",
+        "CallType": "TRESPASSER",
+        "Location": "MARTIN LUTHER KING DR 17.2 "
+    },
+    {
+        "Time": "2019-10-19T20:18:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T21:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PANHANDLING",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-19T21:52:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-19T22:00:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-19T23:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-19T23:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-20T00:05:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-20T01:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-20T03:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T04:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "VANDALISM",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 : STREET LEVEL "
+    },
+    {
+        "Time": "2019-10-20T04:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-20T04:42:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE DISPUTE",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T06:35:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "OBSERVATION",
+        "Location": "RIVERVIEW TRANSIT CENTER - 9000 RIVERVIEW DR.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T06:39:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T08:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-20T11:36:00.000Z",
+        "Category": "IL GRADE CROSSINGS",
+        "CallType": "FARE DISPUTE",
+        "Location": "SHILOH STATION RD 36.2 "
+    },
+    {
+        "Time": "2019-10-20T11:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "SHILOH SCOTT - 880 METRO PLAZA LN.  OFALLON 37.7 "
+    },
+    {
+        "Time": "2019-10-20T12:05:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "FOUND PROPERTY/ARTICLE",
+        "Location": "MAIN SHOPS - 3330 SPRUCE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T12:09:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "STOLEN PROPERTY",
+        "Location": "MAIN SHOPS - 3330 SPRUCE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T13:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-20T13:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-20T13:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-20T13:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "JACKIE JOYNER-KERSEE - 1003 N. 25TH ST.  E ST LOUIS 19.1 "
+    },
+    {
+        "Time": "2019-10-20T13:50:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "FOUND PROPERTY/ARTICLE",
+        "Location": "29TH STREET - 2901 ST CLAIR AVE.  E ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T14:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-20T14:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "WASHINGTON PARK - 867 N. 54TH ST  WASHINGTON PARK 20.8 "
+    },
+    {
+        "Time": "2019-10-20T14:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-20T14:37:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-20T14:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-20T14:58:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SUSPICIOUS /UNATTENDED PACKAGE",
+        "Location": "BRENTWOOD - 300 S. BRENTWOOD  BRENTWOOD "
+    },
+    {
+        "Time": "2019-10-20T15:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-20T16:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T18:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T18:28:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T19:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-20T20:26:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SUSPICIOUS /UNATTENDED PACKAGE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T20:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T21:12:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-20T21:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "WASHINGTON PARK - 867 N. 54TH ST  WASHINGTON PARK 20.8 "
+    },
+    {
+        "Time": "2019-10-20T21:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-20T21:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "BRENTWOOD - 8398 EAGER RD.  BRENTWOOD CC4.7 "
+    },
+    {
+        "Time": "2019-10-20T22:42:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "29TH STREET - 2901 ST CLAIR AVE.  E ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T00:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T00:50:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "10 - GRAVOIS-LINDELL "
+    },
+    {
+        "Time": "2019-10-21T00:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INDECENT EXPOSURE",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-21T01:03:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T01:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "OPEN CONTAINER ALCOHOL",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T02:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PUBLIC URINATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-21T02:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : STREET LEVEL "
+    },
+    {
+        "Time": "2019-10-21T03:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-21T11:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 : BUS STALL "
+    },
+    {
+        "Time": "2019-10-21T11:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T12:05:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-21T12:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T12:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 PEACE "
+    },
+    {
+        "Time": "2019-10-21T12:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 PEACE "
+    },
+    {
+        "Time": "2019-10-21T12:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "COURTESY WARNING",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-21T13:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 PEACE "
+    },
+    {
+        "Time": "2019-10-21T13:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T13:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T13:50:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-21T14:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T14:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T15:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FOUND PROPERTY/ARTICLE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-21T15:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T15:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM PEACE "
+    },
+    {
+        "Time": "2019-10-21T15:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "COURTESY WARNING",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T15:37:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "ALARM",
+        "Location": "95 - KINGSHIGHWAY "
+    },
+    {
+        "Time": "2019-10-21T15:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T15:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T16:16:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T16:29:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T16:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T17:02:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T17:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-21T17:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T17:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "SKINKER - 260 N. SKINKER  ST LOUIS CC0.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T18:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T18:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T19:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T19:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DRUG VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 POSS "
+    },
+    {
+        "Time": "2019-10-21T19:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-21T19:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-21T20:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "JACKIE JOYNER-KERSEE - 1003 N. 25TH ST.  E ST LOUIS 19.1 "
+    },
+    {
+        "Time": "2019-10-21T20:33:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-21T20:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-21T21:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-21T21:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-21T22:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "COLLEGE - 2622 CARLYLE AVE. BELLEVILLE 34.2 "
+    },
+    {
+        "Time": "2019-10-21T23:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-22T00:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-22T01:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TOWED VEHICLE",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-22T01:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-22T04:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-22T04:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-22T04:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-22T05:43:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "NORTH COUNTY TRANSIT CENTER - 3140 PERSHALL RD. FERGUSON "
+    },
+    {
+        "Time": "2019-10-22T07:56:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "DEBALIVIERE - 565 DEBALIVIERE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T09:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "VANDALISM",
+        "Location": "WASHINGTON PARK - 867 N. 54TH ST  WASHINGTON PARK 20.8 "
+    },
+    {
+        "Time": "2019-10-22T10:43:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "DEBALIVIERE - 565 DEBALIVIERE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T12:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-22T13:00:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T13:16:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T13:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T13:52:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-22T13:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 PEACE "
+    },
+    {
+        "Time": "2019-10-22T14:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T14:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-22T15:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T15:29:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T15:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T15:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T15:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T16:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T16:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "JACKIE JOYNER-KERSEE - 1003 N. 25TH ST.  E ST LOUIS 19.1 "
+    },
+    {
+        "Time": "2019-10-22T16:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-22T16:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T16:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T17:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T17:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T17:23:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "GAMBLING",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-22T17:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-22T18:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "OBSERVATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T18:23:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "SWANSEA - 2222 N. ILLINOIS ST  SWANSEA 29.4 "
+    },
+    {
+        "Time": "2019-10-22T18:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T18:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T18:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-22T19:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T20:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T20:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-22T21:44:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "GAMBLING",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-22T21:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "OBSERVATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T22:46:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "ACCIDENT (AGENCY VEHICLE)",
+        "Location": "MAIN SHOPS - 3330 SPRUCE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T22:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "SWANSEA - 2222 N. ILLINOIS ST  SWANSEA 29.4 "
+    },
+    {
+        "Time": "2019-10-22T23:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-22T23:44:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-22T23:56:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "9 - OAKVILLE "
+    },
+    {
+        "Time": "2019-10-23T02:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ROBBERY",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T03:33:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T04:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-23T05:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONVEYANCE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-23T12:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T12:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-23T12:44:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T13:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-23T13:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T13:39:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "MEDICAL EMERGENCY",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T13:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T14:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-23T14:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T15:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-23T15:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-23T15:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-23T15:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T15:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T16:02:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T16:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T16:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T16:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T16:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T16:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "THEFT",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T16:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T17:11:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PERSON TRAPPED IN ELEVATOR",
+        "Location": "EAST RIVERFRONT - 100 S. FRONT ST.  E ST LOUIS 15.9 "
+    },
+    {
+        "Time": "2019-10-23T17:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T17:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PERSON TRAPPED IN ELEVATOR",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-23T17:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-23T17:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-23T17:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T17:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-23T18:11:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSPICIOUS /UNATTENDED PACKAGE",
+        "Location": "RICHMOND HEIGHTS - 8001 GALLERIA PKWY  RICHMOND HGTS CC4.2 "
+    },
+    {
+        "Time": "2019-10-23T18:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "COURTESY WARNING",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T18:23:00.000Z",
+        "Category": "MO GRADE CROSSINGS",
+        "CallType": "TRESPASSER",
+        "Location": "SARAH ST 11.2 "
+    },
+    {
+        "Time": "2019-10-23T18:40:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "CONTACT COMPLAINTANT",
+        "Location": "RIVERVIEW TRANSIT CENTER - 9000 RIVERVIEW DR.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T18:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T19:00:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T19:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T19:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T19:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-23T19:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-23T19:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-23T19:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T20:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T20:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE DISPUTE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-23T20:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PANHANDLING",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-23T21:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T21:37:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T22:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-23T22:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-23T23:09:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "THEFT",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-23T23:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-23T23:42:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "ASSAULT",
+        "Location": "73 - CARONDELET "
+    },
+    {
+        "Time": "2019-10-23T23:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-24T00:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "SKINKER - 260 N. SKINKER  ST LOUIS CC0.8 "
+    },
+    {
+        "Time": "2019-10-24T01:29:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "GAMBLING",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-24T02:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "MEDICAL EMERGENCY",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-24T03:12:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "RIVERVIEW TRANSIT CENTER - 9000 RIVERVIEW DR.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T04:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T11:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FOUND PROPERTY/ARTICLE",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T11:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T12:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-24T12:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ABANDON VEHICLE",
+        "Location": "WASHINGTON PARK - 867 N. 54TH ST  WASHINGTON PARK 20.8 "
+    },
+    {
+        "Time": "2019-10-24T12:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T12:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-24T13:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "MEDICAL EMERGENCY",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-24T13:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T13:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSIST",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-24T13:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T13:44:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-24T13:52:00.000Z",
+        "Category": "MO GRADE CROSSINGS",
+        "CallType": "TRESPASSER",
+        "Location": "SARAH ST 11.2 "
+    },
+    {
+        "Time": "2019-10-24T13:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T14:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-24T14:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-24T14:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T14:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T14:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-24T14:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T14:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : STREET LEVEL "
+    },
+    {
+        "Time": "2019-10-24T15:16:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T15:29:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T15:42:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T16:00:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "BRENTWOOD - 8398 EAGER RD.  BRENTWOOD CC4.7 "
+    },
+    {
+        "Time": "2019-10-24T16:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T16:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T17:08:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "OBSERVATION",
+        "Location": "9 - OAKVILLE "
+    },
+    {
+        "Time": "2019-10-24T17:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-24T17:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T17:57:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T17:58:00.000Z",
+        "Category": "MILE MARKERS",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER - 13.9 "
+    },
+    {
+        "Time": "2019-10-24T18:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T18:33:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T19:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SOLICITING",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-24T20:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T21:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-24T21:42:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-24T21:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-24T22:11:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-24T22:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "COLLEGE - 2622 CARLYLE AVE. BELLEVILLE 34.2 "
+    },
+    {
+        "Time": "2019-10-24T22:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "JACKIE JOYNER-KERSEE - 1003 N. 25TH ST.  E ST LOUIS 19.1 "
+    },
+    {
+        "Time": "2019-10-24T22:44:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "SLEEPER",
+        "Location": "74 - FLORISSANT "
+    },
+    {
+        "Time": "2019-10-24T23:57:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "COURTESY WARNING",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T00:11:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SUSP PERSON",
+        "Location": "DEBALIVIERE - 565 DEBALIVIERE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T00:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T01:14:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "DISTURBANCE",
+        "Location": "19 - ST LOUIS AVE "
+    },
+    {
+        "Time": "2019-10-25T01:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-25T01:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "BRENTWOOD - 8398 EAGER RD.  BRENTWOOD CC4.7 "
+    },
+    {
+        "Time": "2019-10-25T03:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-25T03:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : STREET LEVEL "
+    },
+    {
+        "Time": "2019-10-25T11:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-25T12:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-25T12:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T13:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T14:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-25T14:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-25T14:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T14:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PERSON TRAPPED IN ELEVATOR",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T15:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-25T15:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T15:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T15:33:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 PEACE "
+    },
+    {
+        "Time": "2019-10-25T15:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T16:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-25T16:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T16:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-25T17:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INDECENT EXPOSURE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-25T17:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T17:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T17:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T17:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T17:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T18:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-25T19:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PUBLIC URINATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-25T19:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSAULT",
+        "Location": "SKINKER - 260 N. SKINKER  ST LOUIS CC0.8 "
+    },
+    {
+        "Time": "2019-10-25T19:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PANHANDLING",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T19:57:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-25T20:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-25T20:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PERSON TRAPPED IN ELEVATOR",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-25T20:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-25T20:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-25T23:30:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "90 - HAMPTON "
+    },
+    {
+        "Time": "2019-10-26T00:27:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "BRENTWOOD - 300 S. BRENTWOOD  BRENTWOOD "
+    },
+    {
+        "Time": "2019-10-26T02:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-26T02:30:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "CHECK THE WELFARE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T04:39:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "32 - ML KING-CHOUTEAU "
+    },
+    {
+        "Time": "2019-10-26T05:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-26T05:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "STOLEN PROPERTY",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-26T13:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T13:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-26T14:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T14:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T15:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "BRENTWOOD - 8398 EAGER RD.  BRENTWOOD CC4.7 "
+    },
+    {
+        "Time": "2019-10-26T15:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-26T15:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-26T15:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T15:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T15:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T15:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-26T16:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-26T16:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T17:00:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-26T17:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-26T17:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T18:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-26T18:16:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-26T18:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-26T18:39:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-26T19:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-26T19:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T20:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T21:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-26T22:04:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "CHECK THE WELFARE",
+        "Location": "CALL-A-RIDE - 3330 SPRUCE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T22:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-26T23:58:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "74 - FLORISSANT "
+    },
+    {
+        "Time": "2019-10-27T00:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-27T00:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "BRENTWOOD - 8398 EAGER RD.  BRENTWOOD CC4.7 "
+    },
+    {
+        "Time": "2019-10-27T01:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-27T02:25:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "95 - KINGSHIGHWAY "
+    },
+    {
+        "Time": "2019-10-27T03:34:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "13 - UNION "
+    },
+    {
+        "Time": "2019-10-27T06:02:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T08:03:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "ALARM",
+        "Location": "METRO RIDE STORE - 801 PINE ST. "
+    },
+    {
+        "Time": "2019-10-27T11:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-27T13:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-27T13:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T13:38:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T14:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T14:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-27T14:37:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T14:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SOLICITING",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-27T15:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T15:33:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-27T16:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-27T16:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-27T18:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-27T18:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSAULT",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T18:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-27T19:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T20:05:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-27T20:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "WASHINGTON PARK - 867 N. 54TH ST  WASHINGTON PARK 20.8 "
+    },
+    {
+        "Time": "2019-10-27T20:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-27T21:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-27T21:27:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-27T21:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-27T21:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "MEMORIAL HOSPITAL - 1502  FLANAGAN RD  BELLEVILLE 27.2 "
+    },
+    {
+        "Time": "2019-10-27T22:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "MEMORIAL HOSPITAL - 1502  FLANAGAN RD  BELLEVILLE 27.2 "
+    },
+    {
+        "Time": "2019-10-27T22:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-27T23:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T23:24:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "INDECENT EXPOSURE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-27T23:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "RICHMOND HEIGHTS - 8001 GALLERIA PKWY  RICHMOND HGTS CC4.2 "
+    },
+    {
+        "Time": "2019-10-28T00:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-28T04:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T06:16:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-28T09:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "SHILOH SCOTT - 880 METRO PLAZA LN.  OFALLON 37.7 "
+    },
+    {
+        "Time": "2019-10-28T11:29:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSPICIOUS /UNATTENDED PACKAGE",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T12:16:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T12:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "MEDICAL EMERGENCY",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T13:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T14:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T14:34:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "ADA OFFICE - 317 DEBALIVIERE - ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T14:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSISTING OTHER AGENCY",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-28T15:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-28T15:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS : STREET LEVEL "
+    },
+    {
+        "Time": "2019-10-28T15:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-28T15:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "COURTESY WARNING",
+        "Location": "EAST RIVERFRONT - 100 S. FRONT ST.  E ST LOUIS 15.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T16:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T16:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T16:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T16:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SOLICITING",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T16:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "COURTESY WARNING",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T17:02:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T17:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-28T17:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T17:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CHECK TRAIN FOR LOST PROPERTY",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-28T17:57:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T18:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T18:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T18:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T18:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-28T19:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : STREET LEVEL "
+    },
+    {
+        "Time": "2019-10-28T19:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T19:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-28T20:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-28T20:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T20:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CHECK TRAIN FOR LOST PROPERTY",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-28T20:26:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "COLLEGE - 2622 CARLYLE AVE. BELLEVILLE 34.2 "
+    },
+    {
+        "Time": "2019-10-28T20:44:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "49 - LINDBERGH "
+    },
+    {
+        "Time": "2019-10-28T21:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-28T21:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 PEACE "
+    },
+    {
+        "Time": "2019-10-28T21:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-28T21:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-28T22:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "OPEN CONTAINER ALCOHOL",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-28T22:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "CLAYTON - 275 S. CENTRAL  CLAYTON CC3.0 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-28T23:01:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-29T00:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "JACKIE JOYNER-KERSEE - 1003 N. 25TH ST.  E ST LOUIS 19.1 "
+    },
+    {
+        "Time": "2019-10-29T01:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSPICIOUS VEHICLE",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-29T01:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-29T03:09:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "WEAPONS VIOLATION",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-29T03:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-29T11:52:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T12:33:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T12:50:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CHECK TRAIN FOR LOST PROPERTY",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-29T13:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "JACKIE JOYNER-KERSEE - 1003 N. 25TH ST.  E ST LOUIS 19.1 "
+    },
+    {
+        "Time": "2019-10-29T13:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-29T13:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T14:02:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "FOUND PROPERTY/ARTICLE",
+        "Location": "EWING - 700 S. EWING  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T14:37:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T14:39:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-29T14:59:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "FARE DISPUTE",
+        "Location": "RIVERVIEW TRANSIT CENTER - 9000 RIVERVIEW DR.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T15:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-29T15:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-29T15:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T15:52:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T16:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-29T16:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T16:50:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-29T17:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "THEFT",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-29T17:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-29T17:39:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "NORTH COUNTY TRANSIT CENTER - 3140 PERSHALL RD. FERGUSON "
+    },
+    {
+        "Time": "2019-10-29T17:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-29T17:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUICIDAL SUBJECT",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-29T18:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T19:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-29T19:24:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "ASSAULT",
+        "Location": "16 - ST CLAIR SQUARE "
+    },
+    {
+        "Time": "2019-10-29T19:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PANHANDLING",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T19:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T20:00:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-29T20:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-29T20:21:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T20:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "UNRULY PATRON",
+        "Location": "BRENTWOOD - 8398 EAGER RD.  BRENTWOOD CC4.7 "
+    },
+    {
+        "Time": "2019-10-29T20:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SOLICITING",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-29T21:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T21:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-29T22:23:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SICK CASE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T22:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 PEACE "
+    },
+    {
+        "Time": "2019-10-29T22:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T23:05:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-29T23:07:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-29T23:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T00:29:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "NORTH COUNTY TRANSIT CENTER - 3140 PERSHALL RD. FERGUSON "
+    },
+    {
+        "Time": "2019-10-30T00:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "CLAYTON - 275 S. CENTRAL  CLAYTON CC3.0 "
+    },
+    {
+        "Time": "2019-10-30T01:36:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS PEACE "
+    },
+    {
+        "Time": "2019-10-30T02:16:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SICK CASE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T02:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-30T03:47:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "THEFT",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T04:11:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "WEAPONS VIOLATION",
+        "Location": "CLAYTON - 275 S. CENTRAL  CLAYTON CC3.0 "
+    },
+    {
+        "Time": "2019-10-30T11:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SLEEPER",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-30T12:05:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-30T12:54:00.000Z",
+        "Category": "IL GRADE CROSSINGS",
+        "CallType": "CALL TYPE LEFT EMPTY",
+        "Location": "BROADWAY 16.8 CLEAR OBSTRUCTION"
+    },
+    {
+        "Time": "2019-10-30T13:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T13:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T13:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T13:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T13:50:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T13:57:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T14:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-30T14:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T14:23:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T14:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T14:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-30T15:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T15:17:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T15:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-30T15:37:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-30T15:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-30T16:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PUBLIC URINATION",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-30T16:10:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-30T16:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T16:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-30T16:42:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "MEDICAL EMERGENCY",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. : BUS STALL "
+    },
+    {
+        "Time": "2019-10-30T16:51:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T16:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T17:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T17:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T17:23:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-30T17:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSAULT",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-30T18:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-30T19:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ACCIDENTAL INJURY",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-30T19:59:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "ASSAULT",
+        "Location": "11 - CHIPPEWA "
+    },
+    {
+        "Time": "2019-10-30T20:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "EAST RIVERFRONT - 100 S. FRONT ST.  E ST LOUIS 15.9 "
+    },
+    {
+        "Time": "2019-10-30T21:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-30T21:22:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-30T21:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-30T21:40:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-30T22:03:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "70 - GRAND "
+    },
+    {
+        "Time": "2019-10-30T23:20:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-31T00:04:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "NORTH COUNTY TRANSIT CENTER - 3140 PERSHALL RD. FERGUSON "
+    },
+    {
+        "Time": "2019-10-31T00:29:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "EAST RIVERFRONT - 100 S. FRONT ST.  E ST LOUIS 15.9 "
+    },
+    {
+        "Time": "2019-10-31T01:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-31T02:13:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PUBLIC URINATION",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-10-31T02:30:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T04:18:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSP PERSON",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-31T04:43:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "11 - CHIPPEWA "
+    },
+    {
+        "Time": "2019-10-31T04:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 "
+    },
+    {
+        "Time": "2019-10-31T05:37:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-10-31T05:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-10-31T11:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-31T11:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T11:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 PEACE "
+    },
+    {
+        "Time": "2019-10-31T11:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "LACLEDES LANDING - 115 WASHINGTON AVE. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-10-31T12:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T12:32:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-10-31T12:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T13:02:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS : BUS STALL "
+    },
+    {
+        "Time": "2019-10-31T13:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T13:54:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "FARE VIOLATION",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T14:24:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SUICIDAL SUBJECT",
+        "Location": "MAIN SHOPS - 3330 SPRUCE AVE.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T15:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T15:37:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T15:48:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T16:28:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "TRESPASSER",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T16:41:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T16:54:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T16:55:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "STADIUM - 400 S. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T16:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T17:26:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T17:43:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "CORTEX - 402 S. BOYLE AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T18:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-10-31T18:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "CONDITION ID",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-10-31T18:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T18:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "STOLEN PROPERTY",
+        "Location": "UMSL SOUTH - 7790 NATURAL BRIDGE RD  ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T18:59:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T19:01:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "TRESPASSER",
+        "Location": "NORTH COUNTY TRANSIT CENTER - 3140 PERSHALL RD. FERGUSON "
+    },
+    {
+        "Time": "2019-10-31T19:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T19:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T20:07:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "73 - CARONDELET "
+    },
+    {
+        "Time": "2019-10-31T20:19:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "MEDICAL EMERGENCY",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-10-31T20:39:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T21:05:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PROPERTY DAMAGE",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-10-31T21:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-10-31T21:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SICK CASE",
+        "Location": "GRAND - 3560 SCOTT AVE.  ST LOUIS 11.9 "
+    },
+    {
+        "Time": "2019-10-31T22:25:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-10-31T22:47:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "SKINKER - 260 N. SKINKER  ST LOUIS CC0.8 "
+    },
+    {
+        "Time": "2019-10-31T23:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "NORTH HANLEY - 4300 N. HANLEY DR. BERKELEY 3.2 "
+    },
+    {
+        "Time": "2019-10-31T23:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SOLICITING",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-11-01T00:31:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-11-01T00:35:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER - 401 S 14TH ST. "
+    },
+    {
+        "Time": "2019-11-01T00:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "WASHINGTON PARK - 867 N. 54TH ST  WASHINGTON PARK 20.8 "
+    },
+    {
+        "Time": "2019-11-01T01:53:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "DISTURBANCE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T02:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T02:42:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "SLEEPER",
+        "Location": "73 - CARONDELET "
+    },
+    {
+        "Time": "2019-11-01T04:15:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "40 - NORTH BROADWAY "
+    },
+    {
+        "Time": "2019-11-01T12:06:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SICK CASE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T12:11:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T13:56:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T13:58:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "CENTRAL WEST END - 410 S. EUCLID ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T14:03:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "LOST PROPERTY/ARTICLE",
+        "Location": "CONVENTION CENTER - 600 N. 6TH ST.  ST LOUIS 15.1 : PLATFORM "
+    },
+    {
+        "Time": "2019-11-01T14:04:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "ROCK ROAD - 7001 ST. CHARLES ROCK RD.  PAGEDALE 5.9 "
+    },
+    {
+        "Time": "2019-11-01T14:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-11-01T14:42:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "ARREST",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T14:49:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "DISTURBANCE",
+        "Location": "DELMAR - 731 HODIAMONT AVE. ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T14:53:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ASSISTING OTHER AGENCY",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-11-01T15:24:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FOUND PROPERTY/ARTICLE",
+        "Location": "FAIRVIEW HEIGHTS - 9290 HWY 161  FAIRVIEW HGTS 23.8 "
+    },
+    {
+        "Time": "2019-11-01T16:08:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-11-01T16:39:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-11-01T16:45:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "5TH & MISSOURI - 203 N 6TH ST E ST LOUIS 16.9 "
+    },
+    {
+        "Time": "2019-11-01T17:06:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-11-01T17:34:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS : PLATFORM "
+    },
+    {
+        "Time": "2019-11-01T18:23:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "SUSP PERSON",
+        "Location": "90 - HAMPTON "
+    },
+    {
+        "Time": "2019-11-01T18:36:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FARE VIOLATION",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 : PLATFORM "
+    },
+    {
+        "Time": "2019-11-01T18:44:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER REMOVAL",
+        "Location": "UNION STATION - 300 S. 18TH ST. ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T19:42:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "FIGHT",
+        "Location": "BELLEVILLE - 700 SCHEEL ST. BELLEVILLE 30.6 "
+    },
+    {
+        "Time": "2019-11-01T19:48:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON TRAIN",
+        "Location": "EMERSON PARK - 929 N. 11TH ST.  E ST LOUIS 18.3 "
+    },
+    {
+        "Time": "2019-11-01T21:08:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "SUSP PERSON",
+        "Location": "94 - PAGE "
+    },
+    {
+        "Time": "2019-11-01T21:53:00.000Z",
+        "Category": "FACILITIES",
+        "CallType": "SICK CASE",
+        "Location": "CIVIC CENTER TRANSIT CENTER - 401 14TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T22:42:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SMOKING ON PROPERTY",
+        "Location": "8TH & PINE - 323 N. 8TH ST.  ST LOUIS "
+    },
+    {
+        "Time": "2019-11-01T22:46:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "DISTURBANCE",
+        "Location": "30 - ARSENAL "
+    },
+    {
+        "Time": "2019-11-01T23:14:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "SHREWSBURY - 7201 LANDSDOWNE AVE.  ST LOUIS CC7.5 "
+    },
+    {
+        "Time": "2019-11-01T23:15:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "ARREST",
+        "Location": "MEMORIAL HOSPITAL - 1502  FLANAGAN RD  BELLEVILLE 27.2 "
+    },
+    {
+        "Time": "2019-11-01T23:46:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "REMOVE OBSTRUCTION",
+        "Location": "MAPLEWOOD/MANCHESTER - 7903 MANCHESTER RD. "
+    },
+    {
+        "Time": "2019-11-01T23:59:00.000Z",
+        "Category": "METRO BUS ROUTE",
+        "CallType": "INTOXICATED SUBJECT",
+        "Location": "174X - HALLS FERRY EXPRESS "
+    },
+    {
+        "Time": "2019-11-02T00:40:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "PASSENGER ASSIST",
+        "Location": "FOREST PARK - 250 DEBALIVIERE AVE.  ST LOUIS 8.8 "
+    },
+    {
+        "Time": "2019-11-02T01:12:00.000Z",
+        "Category": "METROLINK",
+        "CallType": "SUSPICIOUS /UNATTENDED PACKAGE",
+        "Location": "LAMBERT EAST TERMINAL - 10201 LAMBERT INTL DR. "
     }
 ]
